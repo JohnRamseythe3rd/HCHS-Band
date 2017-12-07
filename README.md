@@ -7,9 +7,9 @@
 
   As for the font, we chose to keep it all sans-serif, as it is easy to read because of its simplicity.
 
-  For the navigation bar, we followed the instructions given in the website w3schools.com. Before doing that, we attempted to create a nav bar using javascript but we were unsucessful.
+  For the navigation bar, we followed the instructions given in the website w3schools.com. Before doing that, we attempted to create a nav bar using javascript but we were unsuccessful.
 
-  We decided to have the photo of the truck connected to all the pages as it is a creative way to show who we are.
+  We decided to have the photo of the truck connected to all the pages as it is a creative way to show who we are. We were having a student take a better photo with her camera, as the current photo is taken with an iPhone, but her camera messed up. However, we can change it in the future when we get a better photo.
 
 HOME:
   First, we have a slideshow of this year's photos to introduce the band physically. We start off with the full band photo, followed by every section in score order. At the end we also included photos of the Section Leaders and Band Council. All individual photos must be purchased through our photographer. The only other photo we wanted to include but couldn't was the Drum Major (people in white pants) photo. The photo of them was cropped vertically and would not work with our slideshow. We contacted the photographer about an uncropped photo and explained our situation. However, she never would get back with us.
@@ -17,29 +17,33 @@ HOME:
 
 ABOUT:
   For our School Info, we provided a link to our school's website. 
-  Our Misson was provided by Mr. Rob Irons, the head director.
+  Our Mission was provided by Mr. Rob Irons, the head director.
   We included the director bios from this year's football program to help those on our page feel more connected.
   The Leadership Team and Section Leaders will be posted here each time. 
-  Student Involvment shows how the sudent can stay active in this band program and what their options are.
-  Parent Involvment helps family members understand how they can help their student and the band program.
+  Student Involvement shows how the student can stay active in this band program and what their options are.
+  Parent Involvement helps family members understand how they can help their student and the band program.
   The P1, P2, P3, P4 Process helps students and parents understand how the alternate classification process works.
   The History portion provides a link to a page giving lists of directors, field commanders, and others who have affected this band program over the years.
   We chose to make the headings larger and gray to make them stand out. 
-  ***
+  When we were struggling with our navigation bar, we went to Mr. Jamie Burgess (Argent Wave) for help. Not only did he help us transfer over to the w3schools nav bar but he noticed that we were using a ton of line breaks in order to space everything out. He showed us how to put each section in their own div and change their margins and padding instead. He also helped us put the opacity into effect.
 
 CALENDAR:
-  We embeded the google calendar through Mr. Irons's gmail account. He will be able to update and change the calendar through his account.
-  The calendar is enteractive and you can navigate through the months.
+  We embedded the google calendar through Mr. Irons's gmail account. He will be able to update and change the calendar through his account.
+  The calendar is interactive and you can navigate through the months.
 
 COST & FORMS:
   We made these lists using a table.
   We wanted to space out the columns a bit but we couldn't figure out how. So, we just used periods to space them out and changed their colors to the same color as the background.
-************
+ We used the same methods as we used in “about” when we put each table in its own div and used opacity.
+  Also, we decided to make each form a link so that students can see what form they need turn in.
 
 FIELD SHOW:
   We used a table to list the songs.
-  We included the virtural pyware videos of our show.
-***********
+  We included the virtual pyware videos of our show.
+  We were going to have photos of the show that had been taken via drone earlier in the year but we did not get these. 
+  We were also going to have a video of the band performing the show but we didn’t get a good video.     
+   However, we can always add these later if we get them.
+  We wanted to space out the columns a bit but we couldn't figure out how. So, we just used periods to space them out and changed their colors to the same color as the background.
 
 CONTACT US:
   We spoke with the directors about what information they were okay with being published.
