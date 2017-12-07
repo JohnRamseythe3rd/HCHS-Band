@@ -114,7 +114,7 @@ body {
 }
 
 a {
-  color: rgb(95, 95, 95);
+  color:  gray;
 }
 
 ul {
@@ -122,4 +122,37 @@ ul {
 }
 .irons {
   padding: 2em;
+}
+.fees {
+  padding: 30px;
+  margin-bottom: 40px;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: rgba(0,0,0,0.2);
+}
+.forms {
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: rgba(0,0,0,0.2);
+}
+.forms-link a {
+  color: white;
+}
+.forms-link :hover {
+  background-color: rgb(100, 0, 0);
+}
+.show-links :hover {
+  color:  gray;
+  background-color: rgba(0,0,0,0.4);
+}
+.show-links {
+  color: gray;
+}
+.show-music-table {
+  padding: 30px;
+  margin-bottom: 20px;
+  margin-left: 350px;
+  margin-right: 350px;
 }
